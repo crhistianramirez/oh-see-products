@@ -1,0 +1,7 @@
+/* 
+  use colors that don't clash with our color palette
+ */
+ 
+ .Toastify__toast--error {
+     background-color: #FE4A49;
+ }
