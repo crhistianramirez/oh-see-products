@@ -6,7 +6,6 @@ import { Main } from './components/Main';
 import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
 import AppTheme from './config/theme';
 import 'react-toastify/dist/ReactToastify.min.css';
-import './styles/toastify.css';
 import './styles/index.css';
 
 class App extends Component {

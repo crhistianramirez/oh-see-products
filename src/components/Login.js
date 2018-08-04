@@ -4,7 +4,6 @@ import CardContent from '@material-ui/core/CardContent';
 import CardHeader from '@material-ui/core/CardHeader';
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
-import '../styles/Login.css';
 import DefaultErrorHandler from '../config/error-handler';
 
 // third party
